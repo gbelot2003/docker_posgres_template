@@ -1,0 +1,12 @@
+admin/*
+prod/*
+mysql
+/mysql/*
+/data
+.idea
+/prod2
+admin
+site
+site/*
+app/
+app/*
